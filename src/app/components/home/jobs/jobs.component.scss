@@ -2,7 +2,8 @@
 
 
 ::ng-deep .jobs .jobs-tabs {
-    display: flex;
+    // display: flex;
+    display: grid;
 
     .tab-content{
         margin-left: 38px;
@@ -26,10 +27,12 @@
         color: $Green !important;
         border-color: transparent !important;
         border-radius: 0px;
+        margin-right: 10px;
     }
 
     a{
         display: inline-block;
+        // display: flex;
         -webkit-text-decoration: none;
         text-decoration: none;
         -webkit-text-decoration-skip-ink: auto;
