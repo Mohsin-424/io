@@ -8,7 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href /muffeez/ && ngh --dir=dist/muffeez-portfolio "
+    "predeploy": "ng build --prod --output-path docs --base-href /io/",
+    "deploy": "gh-pages -d docs"
+    
   },
   "private": true,
   "dependencies": {
@@ -44,6 +46,7 @@
     "@types/node": "^12.11.1",
     "angular-cli-ghpages": "^1.0.5",
     "codelyzer": "^6.0.0",
+    "gh-pages": "^6.1.1",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~6.3.16",

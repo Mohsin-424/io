@@ -6,11 +6,11 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "Mohsin_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'><strong>1 year of experience</strong></span> in developing cutting-edge AI systems, dynamic interfaces, and intelligent bots, all aimed at enhancing web functionality and user experience. I am committed to writing and refactoring <span class='underline'><strong>clean, reusable, and scalable code</strong></span> in <span class='underline'><strong>Angular</strong></span>, <span class='underline'><strong>Computer Vision</strong></span>, and <span class='underline'><strong>Deep Learning</strong></span>, with occasional work in <span class='underline'><strong>JavaScript</strong></span>. My work is driven by a dedication to applying best practices and development standards to deliver high-quality, impactful solutions.",
+    "Banner.Description": "I have <span class='underline'><strong>2 year of experience</strong></span> in developing cutting-edge AI systems, dynamic interfaces, and intelligent bots, all aimed at enhancing web functionality and user experience. I am committed to writing and refactoring <span class='underline'><strong>clean, reusable, and scalable code</strong></span> in <span class='underline'><strong>Angular</strong></span>, <span class='underline'><strong>Computer Vision</strong></span>, and <span class='underline'><strong>Deep Learning</strong></span>, with occasional work in <span class='underline'><strong>JavaScript</strong></span>. My work is driven by a dedication to applying best practices and development standards to deliver high-quality, impactful solutions.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <strong> one year of experience in AI </strong>, I have become proficient in developing and optimizing machine learning models, implementing innovative solutions, and collaborating with cross-functional teams to tackle complex problems. My hands-on experience includes analyzing large datasets, performing continuous integration of AI models, and adapting to evolving technologies in the field "
+        "In my <strong> two years of experience in AI </strong>, I have become proficient in developing and optimizing machine learning models, implementing innovative solutions, and collaborating with cross-functional teams to tackle complex problems and building beatiful wep applications. My hands-on experience includes analyzing large datasets, performing continuous integration of AI models, and adapting to evolving technologies in the field "
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
@@ -138,6 +138,6 @@
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
     "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-    "Contact.Btn": " Whatsapp Say Hello"
+    "Contact.Btn": " Say Hello"
 }
 
