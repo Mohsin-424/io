@@ -1,0 +1,143 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Mohsin_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'><strong>1 year of experience</strong></span> in developing cutting-edge AI systems, dynamic interfaces, and intelligent bots, all aimed at enhancing web functionality and user experience. I am committed to writing and refactoring <span class='underline'><strong>clean, reusable, and scalable code</strong></span> in <span class='underline'><strong>Angular</strong></span>, <span class='underline'><strong>Computer Vision</strong></span>, and <span class='underline'><strong>Deep Learning</strong></span>, with occasional work in <span class='underline'><strong>JavaScript</strong></span>. My work is driven by a dedication to applying best practices and development standards to deliver high-quality, impactful solutions.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <strong> one year of experience in AI </strong>, I have become proficient in developing and optimizing machine learning models, implementing innovative solutions, and collaborating with cross-functional teams to tackle complex problems. My hands-on experience includes analyzing large datasets, performing continuous integration of AI models, and adapting to evolving technologies in the field "
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+         {
+            "Tab": " Code Alpha",
+            "Title": "Machine Learning Intern",
+            "Date": "July 2024 - September 2024",
+
+            "Description": [
+                "Assisted in the development and implementation of machine learning models using libraries such as TensorFlow, Keras, and scikit-learn to solve real-world problems and enhance data-driven decision-making.",
+                "Employed visualization tools like Matplotlib and Seaborn to analyze data and model performance, providing actionable insights and recommendations.",
+                "Contributed to model evaluation and tuning, applying techniques such as hyperparameter optimization and cross-validation to improve accuracy and efficiency.",
+                "Supported the integration of machine learning models into web applications, collaborating with front-end and back-end teams to ensure seamless deployment and functionality.",
+                "Participated in research and analysis of new machine learning techniques, exploring and implementing advanced algorithms to enhance existing solutions."
+            ]
+        },
+        {      "Tab": " Steam Genius Club",
+            "Title": "STEM Instructor",
+            "Date": "June,2024 - July,2024",
+            
+            "Description": [
+                "Taught Python programming, Arduino robotics, and LEGO robotics, enhancing students' practical skills and understanding in STEM fields.",
+                "Designed and delivered engaging lesson plans and hands-on projects, promoting interactive learning and problem-solving abilities.",
+                "Collaborated with the Pakistan Air Force to integrate real-world aerospace applications into the curriculum, bridging theoretical knowledge with industry practices.",
+                "Evaluated and provided feedback on students' projects, guiding them in developing innovative solutions and critical thinking skills.",
+                "Facilitated workshops and seminars to foster interest in STEM disciplines and encourage future careers in technology and engineering."
+            ]
+        },
+        
+       
+        {
+            "Tab": "  Muslim Scientific Corporation    ",
+            "Title": "  Embedded Software Engineer  ",
+            "Date": "April 2024 - June 2024",
+            "Description": [
+                "Developed and integrated embedded systems using microcontrollers including Raspberry Pi, PIC18F4520, ESP32/8266, and Arduino, focusing on diverse applications and sensor integration.",
+                "Programmed embedded systems in C/C++ and Python to meet project requirements and enhance functionality.",
+                "Conducted system-level testing and debugging to ensure reliability and performance of embedded applications.",
+                "Collaborated with hardware engineers to troubleshoot and resolve hardware-software integration issues, ensuring seamless operation of embedded solutions."
+            ]
+        },
+        {
+            "Tab": "   Rex Technologies  ",
+            "Title": "Associate Software Engineer ",
+            "Date": "Aug 2023 - Nov 2023",
+            "Description": [
+                "Developed and maintained web applications using Angular, focusing on creating responsive and user-friendly interfaces.",
+                "Implemented complex UI components and features using Angular, TypeScript, and HTML/CSS, ensuring a seamless and engaging user experience.",
+                "Integrated frontend solutions with backend services through RESTful APIs and WebSocket connections to support dynamic and real-time functionalities.",
+                "Conducted performance optimization and debugging to improve application speed and reliability."
+            ]
+        },
+        {
+            "Tab": "   Elektronik-2000     ",
+            "Title": "Embedded Software Engineer",
+            "Date": "November 2021 - Jan 2023",
+            "Description": [
+                "Designed and developed electronic circuits and systems for various applications, including consumer electronics and industrial equipment.",
+                "Utilized tools such as PCB design software (e.g., Multisim, Proteus) to create and optimize circuit layouts and schematics.",
+                "Developed and integrated embedded systems using microcontrollers including Raspberry Pi, PIC18F4520, ESP32/8266, and Arduino, focusing on diverse applications and sensor integration.",
+                "Worked with cross-functional teams to integrate electronic systems with software and mechanical components, ensuring seamless operation.",
+                "Collaborated with hardware engineers to troubleshoot and resolve hardware-software integration issues, ensuring seamless operation of embedded solutions."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Innovative Health Concepts Hospital",
+            "Description": "<strong>Multimodal Orthopedic Health Assessment</strong> is a sophisticated system designed to provide comprehensive diagnostics for orthopedic conditions. It employs advanced techniques in <strong>deep learning</strong> and <strong>computer vision</strong> to analyze various aspects of a patient's musculoskeletal health, including <span class='underline'>trigger point pain</span>, <span class='underline'>gait analysis</span>, <span class='underline'>plantar pressure</span>, and <span class='underline'>body pose</span>",
+            "imgs": [
+                "assets/images/school/image1.jpeg",
+                "assets/images/school/image2.jpeg",
+                "assets/images/school/image3.jpeg"
+            ],
+            "Technologies": [
+                "Computer Vision & Angular ",
+                "Deep Learning ",
+                "Instrumentation "
+              
+            ]
+        },
+        {
+            "Title": "wowcouponcode",
+            "Description": "Wow Coupon Code is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>. You can get coupon codes to get discount on each item  at  <span class = 'underlne' >  wowcouponcode.com </span> ",
+            "imgs": [
+                "assets/images/bbm/image1.jpg",
+                "assets/images/bbm/image2.jpg"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Material",
+                "RxJS",
+                "ExpressJS"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/Mohsin-424",
+            "demoLink": "http://github.com/Mohsin-424",
+            "Technologies": [
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision",
+                "Angular"
+            ]
+        },
+        {
+            "Title": "All Language  Chat Translator ",
+            "Description": "A real-time chat application that can cnvert text from any langauge to any language. Another fun side project :)",
+            "ghLink": "https://github.com/Mohsin-424",
+            "Technologies": [
+                "NLP",
+                "Machine Learning"
+                
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": " Whatsapp Say Hello"
+}
+
